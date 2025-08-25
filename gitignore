@@ -1,0 +1,11 @@
+# Python & project artifacts
+.venv/
+__pycache__/
+*.pyc
+
+# Outputs & data (generated / large files)
+outputs/
+data/
+
+# OS / editor files
+.DS_Store
