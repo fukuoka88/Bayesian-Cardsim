@@ -1,0 +1,16 @@
+[
+  {
+    "name": "br0.003_baseline",
+    "train_csv": "data/train_br0.003_baseline.csv",
+    "test_csv": "data/test_br0.003_baseline.csv",
+    "base_rate": 0.003,
+    "mix": "baseline"
+  },
+  {
+    "name": "br0.005_cnp",
+    "train_csv": "data/train_br0.005_cnp.csv",
+    "test_csv": "data/test_br0.005_cnp.csv",
+    "base_rate": 0.005,
+    "mix": "cnp"
+  }
+]
